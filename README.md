@@ -1,6 +1,6 @@
 # Demon-QB3-Sound-Board
 
-** UNTESTED AND POSSIBLY INCOMPLETE **
+***UNTESTED AND POSSIBLY INCOMPLETE***\
 Gerbers not included because of this.
 
 Here is my reproduction sound board of those
