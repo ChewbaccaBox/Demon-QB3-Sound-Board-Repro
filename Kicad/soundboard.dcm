@@ -1,0 +1,49 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2114
+D RAM
+K Z80 CPU uP
+$ENDCMP
+#
+$CMP 2732
+D 8-bit General Purpose Microprocessor, DIP-40
+K Z80 CPU uP
+$ENDCMP
+#
+$CMP 6118
+D Quad 2 to 1 multiplexer
+K TTL Mux MUX2
+F http://www.ti.com/lit/gpn/sn74LS158
+$ENDCMP
+#
+$CMP AY-3-8910
+D 8-bit General Purpose Microprocessor, DIP-40
+K Z80 CPU uP
+F www.zilog.com/manage_directlink.php?filepath=docs/z80/um0080
+$ENDCMP
+#
+$CMP CD40105B
+D Quad 2 to 1 multiplexer
+K TTL Mux MUX2
+F http://www.ti.com/lit/gpn/sn74LS158
+$ENDCMP
+#
+$CMP Conn_01x50_Male
+D Generic connector, single row, 01x40, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP MK3882
+D 8-bit General Purpose Microprocessor, DIP-40
+K Z80 CPU uP
+F www.zilog.com/manage_directlink.php?filepath=docs/z80/um0080
+$ENDCMP
+#
+$CMP Z80CPU
+D 8-bit General Purpose Microprocessor, DIP-40
+K Z80 CPU uP
+F www.zilog.com/manage_directlink.php?filepath=docs/z80/um0080
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,229 @@
+
+
+
+    C1 		Right of MK3880			Orange
+    C2		47uF				Electrolytic
+    C3		Top Left of U2			Blue
+    C4		Above U3			
+    C5		Left of u6			
+    C6		Left of u6			
+    C7 		beside u7			
+    C8		above u11 (if installed)	
+    C9 		above u12			
+    C10 	above u13			
+    C11 	above u14			
+    C12		beside U15			
+    C13		above u16			
+    C14		above u17			
+    C15		Right of R10			
+    C16		Below z80			Blue
+    C17		above u23			Blue
+    C18		above u24			
+    C22		above 555
+
+
+    C19		470pF
+    C20		470pF
+    C21		0.012uF
+    C23		1uF
+    C24		0.012uF
+    C25		0.015uF
+    C26		0.47uF
+    C27		0.47uF
+    C28		0.1uF
+    C29		22uF
+    C30		0.1uF
+    C31		0.1uF
+    C32		0.1uF
+    C33		2.2uF
+    C34		470uF
+    C35		100uF
+    C36		39pF
+    C37		0.47uF
+    C38		4.7uF
+    C39		470pF
+    C40		470uF
+    C41		47uF
+    C42		.15uF
+    C43		1000uF
+    C44		22nF
+    C45		above u19
+    C46		above u22
+
+    C47		?
+
+    C48 - C79   =   CA1 - CA32
+
+
+
+
+
+    CA1		220pF
+    CA2		220pF
+    CA3		220pF
+    CA4		220pF
+    CA5		220pF
+    CA6		220pF
+    CA7		220pF
+    CA8		220pF
+    CA9		220pF
+    CA10	220pF
+    CA11	220pF
+    CA12	220pF
+    CA13	220pF
+    CA14	220pF
+    CA15	220pF
+    CA16	220pF
+    CA17	220pF
+    CA18	220pF
+    CA19	220pF
+    CA20	220pF
+    CA21	220pF
+    CA22	220pF
+    CA23	220pF
+    CA24	220pF
+    CA25	220pF
+    CA26	220pF
+    CA27	220pF
+    CA28	220pF
+    CA29	220pF
+    CA30	220pF
+    CA31	220pF
+    CA32	220pF
+
+
+
+    CR1		1N4148
+    CR2		1N4003
+    CR3		1N4003
+
+
+
+    J1		14 pin .156 header, 1 x 14
+    J2		16 pin .1 header, 2 x 8
+    J3		(Edge connector, part of PCB already)
+    J4		(Edge connector, part of PCB already)
+
+Transistors
+	5 * MPSA06, 1 * MPSA92
+
+    Q1		MPSA06
+    Q2		MPSA06
+    Q3		MPSA06
+    Q4		MPSA06
+    Q5		MPSA92
+    Q6		MPSA06
+
+
+
+Resistors
+
+
+    R1		10K
+    R2		10K
+    R3		47K
+    R4		220
+    R5		47K
+    R6		4.7K
+    R7		47K
+    R8		68
+    R9		5.6K
+    R10		5.6K
+    R11		5.6K
+    R12		5.6K
+    R13		5.6K
+    R14		5.6K
+    R15		5.6K
+    R16		5.6K
+    R17		470
+    R18		33K
+    R19		5.1K
+    R20		1K
+    R21		33K
+    R22		220K
+    R23		120
+    R24		680
+    R25		680
+    R26		1K
+    R27		4.7K
+    R28		100K
+    R29		470K
+    R30		2.2K
+    R31		10K
+    R32		10K
+    R33		10K
+    R34		330
+    R35		270
+    R36		270
+    R37		4.7k
+    R38		10K
+    R40		1.5K
+    R42		15
+    R44		5.1K
+    R45		1K
+    R46		2.2k
+    R47		100K
+    R48		100K
+    RP1		R_Pack08
+    RP2		R_Pack08
+    RP3		R_Pack08
+    RP4		R_Pack08
+    RP5		100K
+
+
+Chips / Packages
+	3 * AY-3-8910, 2 * 2114, 2 * 2732, 1 * Z80, 1 * Z
+
+    U1		MK3882
+    U2		74LS14
+    U3		AY-3-8910
+    U4		6118
+    U5		74LS138
+    U6		74LS00
+    U7		74LS02
+    U8		CD40105B
+    U9		6118
+    U10		Z80CPU
+    U11		2732
+    U12		2732
+    U13		2114
+    U14		2114
+    U15		74LS138
+    U16		74LS02
+    U17		AY-3-8910
+    U18		AY-3-8910
+    U19		6118
+    U20		TL081
+    U21		555
+    U22		6118
+    U23		74LS04
+    U24		74LS74
+    U25		LA4250
+    U26		7815
+    VR2		1N4744A
+    VR4		1N748A
+    VR5		?
+
+Crystals
+	1 * 3.579 MHz
+
+    X1		3.579 MHz
+
+
+chips
+
+3 x AY-3-8910
+1 x LA4250
+1 x TL081
+2 x 2114
+1 x 2732	
+1 x CD40105B
+1 x Z80
+1 x Z80-CTC
+
+1 x 74LS00
+2 x 74LS02
+1 x 74LS04
+1 x 74LS14
+1 x 74LS74
+2 x 74LS138
